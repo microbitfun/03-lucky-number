@@ -1,7 +1,7 @@
 
 > Open this page at [https://microbitfun.github.io/03-lucky-number/](https://microbitfun.github.io/03-lucky-number/)
 
-## Use as Extension
+## Use as Extensions
 
 This repository can be added as an **extension** in MakeCode.
 
