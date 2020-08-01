@@ -1,5 +1,5 @@
 
-> Open this page at [https://microbitfun.github.io/03-lucky-number/](https://microbitfun.github.io/03-lucky-number/)
+> Open this page at [https://microbitfun.github.io/lucky-number/](https://microbitfun.github.io/lucky-number/)
 
 ## Use as Extensions
 
@@ -8,9 +8,9 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/microbitfun/03-lucky-number** and import
+* search for **https://github.com/microbitfun/lucky-number** and import
 
-## Edit this project ![Build status badge](https://github.com/microbitfun/03-lucky-number/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/microbitfun/lucky-number/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
@@ -23,7 +23,7 @@ To edit this repository in MakeCode.
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/microbitfun/03-lucky-number/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/microbitfun/lucky-number/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
